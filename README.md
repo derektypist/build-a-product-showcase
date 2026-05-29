@@ -1,2 +1,7 @@
-# build-a-product-showcase
-Complete a product showcase using TypeScript
+# Build a Product Showcase
+
+Complete a product showcase using TypeScript.
+
+## Technologies
+
+Uses HTML5, CSS3 and TypeScript.
